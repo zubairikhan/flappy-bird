@@ -1,0 +1,679 @@
+fileFormatVersion: 2
+guid: 535632585e86ca045b26c768eb08ad9a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4224369561026815734
+    second: clony_bird_sprites_0
+  - first:
+      213: 2437159956007169752
+    second: clony_bird_sprites_1
+  - first:
+      213: 2433345074259721416
+    second: clony_bird_sprites_2
+  - first:
+      213: -8628921463133999272
+    second: clony_bird_sprites_7
+  - first:
+      213: -7436767271883076242
+    second: clony_bird_sprites_13
+  - first:
+      213: 7922851076742526361
+    second: clony_bird_sprites_14
+  - first:
+      213: 8662569788925297294
+    second: clony_bird_sprites_15
+  - first:
+      213: -971337211406144166
+    second: clony_bird_sprites_18
+  - first:
+      213: 6369207534137200801
+    second: clony_bird_sprites_19
+  - first:
+      213: 6481771708359736623
+    second: clony_bird_sprites_20
+  - first:
+      213: -6957883649836727128
+    second: clony_bird_sprites_21
+  - first:
+      213: 1278596991320096659
+    second: clony_bird_sprites_22
+  - first:
+      213: -8830671152748648761
+    second: clony_bird_sprites_23
+  - first:
+      213: 1974887874938154921
+    second: clony_bird_sprites_24
+  - first:
+      213: 5563690135127318714
+    second: clony_bird_sprites_25
+  - first:
+      213: 5161847039815210233
+    second: clony_bird_sprites_26
+  - first:
+      213: -3834576994054344052
+    second: clony_bird_sprites_27
+  - first:
+      213: 7523949072602368604
+    second: clony_bird_sprites_28
+  - first:
+      213: 5984634591970963146
+    second: clony_bird_sprites_29
+  - first:
+      213: -2718442537857613210
+    second: clony_bird_sprites_30
+  - first:
+      213: 3563528408324306756
+    second: clony_bird_sprites_31
+  - first:
+      213: -33117290537383367
+    second: clony_bird_sprites_32
+  - first:
+      213: -2620734465163138094
+    second: clony_bird_sprites_33
+  - first:
+      213: 445721247386898468
+    second: clony_bird_sprites_34
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: clony_bird_sprites_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 144
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19a3eda06512304aa3a7d60a7e99669
+      internalID: -4224369561026815734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clony_bird_sprites_1
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 344
+        width: 154
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9caa43211543d3d4492fde3a60c083d3
+      internalID: 2437159956007169752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clony_bird_sprites_2
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 379
+        width: 112
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05fe859710e7d3449cb2e336d9db4b2
+      internalID: 2433345074259721416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clony_bird_sprites_7
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 354
+        width: 136
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eecb4bea28faf94c9e6df733823fe2c
+      internalID: -8628921463133999272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clony_bird_sprites_13
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 329
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79709b5cffef9c642b8bc84b557d7671
+      internalID: -7436767271883076242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clony_bird_sprites_14
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 199
+        width: 26
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae9216910832684994350b410053847
+      internalID: 7922851076742526361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clony_bird_sprites_15
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 213
+        width: 26
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79a6579bf9593e4ba46e8566afaec9e
+      internalID: 8662569788925297294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clony_bird_sprites_18
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 331
+        width: 106
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9a5f335cbf1ed429e87b981a0a4fe4
+      internalID: -971337211406144166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clony_bird_sprites_19
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 311
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa188e856ccff3a429ef1f7cc24b70f5
+      internalID: 6369207534137200801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clony_bird_sprites_20
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 306
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd25ab156b415d542bdb4b3d06fb8952
+      internalID: 6481771708359736623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clony_bird_sprites_21
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 306
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce72610fc87be04493440ae8bb94dfa
+      internalID: -6957883649836727128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clony_bird_sprites_22
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 306
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fb1dc2750d577419cfcd4ea9735160
+      internalID: 1278596991320096659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clony_bird_sprites_23
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 306
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5e09206c881754d8591b7a8dd2ddc2
+      internalID: -8830671152748648761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clony_bird_sprites_24
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 306
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2652741dba2ca44491ff0fbb5ce1689
+      internalID: 1974887874938154921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clony_bird_sprites_25
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 306
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97034c4341785ec4282c6f3c2b46ca40
+      internalID: 5563690135127318714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clony_bird_sprites_26
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 306
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b888d3c47c57d45af8e72e3612963a
+      internalID: 5161847039815210233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clony_bird_sprites_27
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 306
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316cac07d443db644ab1043e72831185
+      internalID: -3834576994054344052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clony_bird_sprites_28
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 306
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce30a5efe6b15a46b55859281d656a9
+      internalID: 7523949072602368604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clony_bird_sprites_29
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 306
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9479b614eb7174d8bf47130be063bc
+      internalID: 5984634591970963146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clony_bird_sprites_30
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 295
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35f96b2d68be0b41ba2a09949dd2daf
+      internalID: -2718442537857613210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clony_bird_sprites_31
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 279
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6e9111478b58748a8ed29582779389
+      internalID: 3563528408324306756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clony_bird_sprites_32
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 219
+        width: 123
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ec5e93e683d05448467fa574ad4d7a
+      internalID: -33117290537383367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clony_bird_sprites_33
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 22
+        width: 411
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b79db0a21ac8c94bbe87547ed1fd0b1
+      internalID: -2620734465163138094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clony_bird_sprites_34
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 172
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb630acedd3a7ba4582482be5cc0bc5d
+      internalID: 445721247386898468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
